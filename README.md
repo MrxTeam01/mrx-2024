@@ -6,4 +6,4 @@ cd mrx-2024
 
 chmod +x *
 
-python M.py
+python F.py
